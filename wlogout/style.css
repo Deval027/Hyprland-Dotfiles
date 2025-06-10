@@ -23,18 +23,18 @@ button:hover {
 }
 
 #lock {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/lock.png"));
+    background-image: image(url("/home/skyland/.config/wlogout/icons/lock.png"));
     background-size: 70%;
 }
 #lock:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/lock-hover.png"));
+    background-image: image(url("/home/skyland/.config/wlogout/icons/lock-hover.png"));
 }
 
 #logout {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/logout.png"));
+    background-image: image(url("/home/skyland/.config/wlogout/icons/logout.png"));
 }
 #logout:focus {
-    background-image: image(url("/home/vivek/.config/wlogout/icons/logout-hover.png"));
+    background-image: image(url("/home/skyland/.config/wlogout/icons/logout-hover.png"));
 }
 
 #suspend {
